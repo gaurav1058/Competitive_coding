@@ -24,3 +24,7 @@ https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-in
 6th question is the rain drop problem.link is given below
 
 https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rain-41f57695/submissions/
+
+7th question is the bank account problem.link is given below
+
+https://codeforces.com/problemset/problem/313/A
