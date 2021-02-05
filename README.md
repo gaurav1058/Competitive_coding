@@ -28,3 +28,7 @@ https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-
 7th question is the bank account problem.link is given below
 
 https://codeforces.com/problemset/problem/313/A
+
+8th question is the maximixe the difference(function) problem.link is given below
+
+https://www.codechef.com/FEB21C/problems/MAXFUN
