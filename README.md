@@ -32,3 +32,7 @@ https://codeforces.com/problemset/problem/313/A
 8th question is the maximixe the difference(function) problem.link is given below
 
 https://www.codechef.com/FEB21C/problems/MAXFUN
+
+9th question is the based on how to do the sum of very large numbers using strings.link is given below
+
+https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/a-b-4/
