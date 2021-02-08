@@ -23,7 +23,7 @@ https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-in
 
 6th question is the rain drop problem.link is given below
 
-https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rain-41f57695/submissions/
+https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/rain-41f57695/description/
 
 7th question is the bank account problem.link is given below
 
@@ -36,3 +36,7 @@ https://www.codechef.com/FEB21C/problems/MAXFUN
 9th question is the based on how to do the sum of very large numbers using strings.link is given below
 
 https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/a-b-4/
+
+10th question is how to get the vowels in the string"O Maah Go, Turu Lob".link is given below
+
+https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/vowels-love/description/
