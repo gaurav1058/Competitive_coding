@@ -41,4 +41,6 @@ https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-
 
 https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/vowels-love/description/
 
+11th question is operations in array.link is given below
 
+10th question is how to get the vowels in the string"O Maah Go, Turu Lob".link is given below
