@@ -43,4 +43,4 @@ https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-in
 
 11th question is operations in array.link is given below
 
-10th question is how to get the vowels in the string"O Maah Go, Turu Lob".link is given below
+https://www.hackerearth.com/challenges/college/CodePlus-2-p/algorithm/40d261d3031d4b2389d0952c9222f6ba/
