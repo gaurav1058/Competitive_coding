@@ -44,3 +44,7 @@ https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-in
 11th question is operations in array.link is given below
 
 https://www.hackerearth.com/challenges/college/CodePlus-2-p/algorithm/40d261d3031d4b2389d0952c9222f6ba/
+
+12th question is the hour glass problem.link is given below
+
+https://www.hackerrank.com/challenges/30-2d-arrays/problem
